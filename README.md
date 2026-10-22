@@ -1,7 +1,7 @@
 # 1151VR-HW4-414262284-張智瑜
 
 ## 專案截圖
-![專案截圖](1151VR-HW3-414262284-張智瑜.png)
+![專案截圖](1151VR-HW4-414262284-張智瑜.png)
 
 ## YouTube 連結
 https://youtube.com/shorts/SxNhpm765x8
